@@ -107,3 +107,7 @@ msgstr "Ajmarština"
 #: weblate/langdata/languages.py:159
 msgid "Azerbaijani"
 msgstr "Ázerbájdžánština"
+
+#: weblate/langdata/languages.py:159
+msgid "zhennanyonga"
+msgstr "zhennanyonga12345"
